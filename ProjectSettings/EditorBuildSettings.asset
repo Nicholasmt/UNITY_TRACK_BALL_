@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mobile/Scenes/Gamestart.unity
+    guid: 5e8677cfc4aded644bbd59b434d7b90c
+  - enabled: 1
+    path: Assets/Mobile/Scenes/levels/1_training.unity
+    guid: d4764c67d161d9d4d862beeaa6c92deb
+  - enabled: 1
+    path: Assets/Mobile/Scenes/levels/2_training.unity
+    guid: ba417ebb181688246a832d087c7fffcc
+  - enabled: 1
+    path: Assets/Mobile/Scenes/levels/3_training.unity
+    guid: def31061c898c454ea4ce2bb77a368cd
+  - enabled: 1
+    path: Assets/Mobile/Scenes/levels/4_training.unity
+    guid: dce360c3f1e7d3a4a98a07461cb7d0c1
+  - enabled: 1
+    path: Assets/Mobile/Scenes/levels/level_1.unity
+    guid: 56bdcfda683ee37478be397b6fb04e7e
+  - enabled: 1
+    path: Assets/Mobile/Scenes/levels/level_5.unity
+    guid: ba8c94561c370d0408f435e42041358c
+  - enabled: 1
+    path: Assets/Mobile/Scenes/Main Menu.unity
+    guid: a55ff096e241a5d46a47d7852b337ac9
+  m_configObjects: {}
